@@ -204,7 +204,7 @@ td {
     color: var(--primary-blue);
 }
 
-/* CELULAR */
+
 @media (max-width: 768px) {
 
     header {
@@ -243,7 +243,7 @@ td {
     }
 }
 
-/* CELULAR PEQUENO */
+
 @media (max-width: 480px) {
 
     .hero h1 {
